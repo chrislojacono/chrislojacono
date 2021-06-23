@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm currently a student at the Nashville Software School learning everything icon about software development! 
 
 <!--
 **chrislojacono/chrislojacono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

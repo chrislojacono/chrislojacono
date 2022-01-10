@@ -1,5 +1,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislojacono&show_icons=true&theme=radical)
+
+# Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislojacono)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **chrislojacono/chrislojacono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋

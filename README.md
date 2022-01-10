@@ -3,6 +3,11 @@
 
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislojacono)](https://github.com/anuraghazra/github-readme-stats)
+
+### Algorithm Practice
+![Badge](https://www.codewars.com/users/chrislojacono/badges/large)
+
+[My Codewars Profile](https://www.codewars.com/users/chrislojacono)
 <!--
 **chrislojacono/chrislojacono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hi there 👋
